@@ -1,0 +1,82 @@
+Hips
+Spine
+Spine1
+Spine2
+Neck
+Head
+HeadTop_End
+LeftEye
+RightEye
+LeftShoulder
+LeftArm
+LeftForeArm
+LeftHand
+LeftHandThumb1
+LeftHandThumb2
+LeftHandThumb3
+LeftHandThumb4
+LeftHandIndex1
+LeftHandIndex2
+LeftHandIndex3
+LeftHandIndex4
+LeftHandMiddle1
+LeftHandMiddle2
+LeftHandMiddle3
+LeftHandMiddle4
+LeftHandRing1
+LeftHandRing2
+LeftHandRing3
+LeftHandRing4
+LeftHandPinky1
+LeftHandPinky2
+LeftHandPinky3
+LeftHandPinky4
+RightShoulder
+RightArm
+RightForeArm
+RightHand
+RightHandPinky1
+RightHandPinky2
+RightHandPinky3
+RightHandPinky4
+RightHandRing1
+RightHandRing2
+RightHandRing3
+RightHandRing4
+RightHandMiddle1
+RightHandMiddle2
+RightHandMiddle3
+RightHandMiddle4
+RightHandIndex1
+RightHandIndex2
+RightHandIndex3
+RightHandIndex4
+RightHandThumb1
+RightHandThumb2
+RightHandThumb3
+RightHandThumb4
+LeftUpLeg
+LeftLeg
+LeftFoot
+LeftToeBase
+LeftToe_End
+RightUpLeg
+RightLeg
+RightFoot
+RightToeBase
+RightToe_End
+
+Object { name: "agree", tracks: (201) […], duration: 1.8333333730697632, blendMode: 2500, uuid: "04CA92D8-3936-42EC-BFAB-4E18F1ECA84C" }
+
+Object { name: "headShake", tracks: (201) […], duration: 2.566666603088379, blendMode: 2500, uuid: "DCA08732-226D-4B80-A192-74DC38B58EED" }
+
+Object { name: "idle", tracks: (201) […], duration: 2.5, blendMode: 2500, uuid: "8E96689D-8F69-404E-8AA5-C7E879885D5F" }
+
+Object { name: "run", tracks: (201) […], duration: 0.699999988079071, blendMode: 2500, uuid: "FBE8810C-807F-456E-814A-12E2721DA1AF" }
+
+Object { name: "sad_pose", tracks: (201) […], duration: 0.06666667014360428, blendMode: 2500, uuid: "4BFAD30C-D1AB-40C8-943C-8494E16A46D4" }
+
+Object { name: "sneak_pose", tracks: (201) […], duration: 0.06666667014360428, blendMode: 2500, uuid: "3AA408A9-9F41-4E42-BACD-EB7B284A6B86" }
+
+Object { name: "walk", tracks: (201) […], duration: 0.9666666388511658, blendMode: 2500, uuid: "36E9FE2D-B69D-4F52-8741-27FF517ADCD2" }
+
